@@ -8,7 +8,7 @@ Install Depedencies
 npm install
 # or 
 yarn install
-
+```
 
 First, run the development server:
 
